@@ -8,7 +8,7 @@ class Box01(BoxLayout):
     None
 
 class MainApp(App):
-    title="título"
+    title="utilizando git"
     def build(self):
         return Box01()
 
